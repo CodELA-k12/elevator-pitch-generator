@@ -35,7 +35,7 @@ Open this generator and follow the directions to utilize the available means of 
 
  
  
-## Code Editors 
+## Phoenix code editor 
 
 You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source
 
